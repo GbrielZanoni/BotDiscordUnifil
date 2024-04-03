@@ -9,6 +9,7 @@
 | Data       | Versão | Descrição              | Autor                  |
 |------------|--------|------------------------|------------------------|
 | 02/04/2024 | 1.0    | Criação do Documento   | Gabriel Zanoni Herculano |
+| 03/04/2024 | 1.1   | Conversão para M.D   | Gabriel Zanoni Herculano |
 
 ---
 
